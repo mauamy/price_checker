@@ -1,0 +1,36 @@
+{
+   "csrf_token":"746ce4511a5464de55debd771e47aafe4afc0cd43ab4d16206fe3514ce0f9fd2",
+   "product_attributes":{
+      "sku":null,
+      "upc":"4521329322254",
+      "mpn":null,
+      "gtin":null,
+      "weight":{
+         "formatted":"170.0 Grams",
+         "value":170
+      },
+      "base":false,
+      "image":null,
+      "price":{
+         "without_tax":{
+            "formatted":"\u20ac39.60",
+            "value":39.6,
+            "currency":"EUR"
+         },
+         "tax_label":"Tax"
+      },
+      "out_of_stock_behavior":"label_option",
+      "out_of_stock_message":"Out of stock",
+      "available_modifier_values":[
+
+      ],
+      "in_stock_attributes":[
+
+      ],
+      "stock":null,
+      "instock":false,
+      "stock_message":null,
+      "purchasable":true,
+      "purchasing_message":"The selected product combination is currently unavailable."
+   }
+}
