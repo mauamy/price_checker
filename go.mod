@@ -1,4 +1,4 @@
-module price_checker
+module github.com/mauamy/price_checker
 
 go 1.16
 
